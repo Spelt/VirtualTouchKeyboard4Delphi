@@ -1,0 +1,10 @@
+{
+	"name": "VirtualTouchKeyboard4Delphi",
+	"description": "",
+	"version": "1.0.0",
+	"homepage": "",
+	"mainsrc": "./source",
+	"browsingpath": "",
+	"projects": [],
+	"dependencies": {}
+}
